@@ -32,22 +32,22 @@
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [1,1,1], "specular": [0.3,0.3,0.3], "n":15}, 
     "vertices": [[1,1,0],[0,1,0],[0, 1, 1]],
-    "normal": [0, -1, 0]
+    "normal": [0, 0, -1]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [1,1,1], "specular": [0.3,0.3,0.3], "n":15}, 
     "vertices": [[1, 1, 1],[1,1,0],[0, 1, 1]],
-    "normal": [0, -1, 0]
+    "normal": [0, 0, -1]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [1,1,1], "specular": [0.3,0.3,0.3], "n":15}, 
     "vertices": [[0,0,0],[0,0,1],[1,0,0]],
-    "normal": [0, -1, 0]
+    "normal": [0, 1, 0]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [1,1,1], "specular": [0.3,0.3,0.3], "n":15}, 
     "vertices": [[0,0,1],[1,0,1],[1,0,0]],
-    "normal": [0, -1, 0]
+    "normal": [0, 1, 0]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [1,1,1], "specular": [0.3,0.3,0.3], "n":15}, 
